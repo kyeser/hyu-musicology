@@ -1,30 +1,39 @@
-# Research Proposal
+# 연구계획서 양식
+Research Proposal
 
-(Last updated 2 March 2023)
+(수정일: 2023년 3월 2일)
+
+## 0. 제목
+
+* 국/영문 모두 작성
+* 가제 가능
 
 ## I. 서론(연구목적)
+공백 포함 1,500~2,000자
 
-* *What* are you studying?
-* What is your *research question*?
-* Who else has tried to answer this research question?
-* *Why* is this important?
+* **연구질문**(research question)은 무엇인가? **무엇**(what)을 **왜**(why) 연구하는가?
+* 동일한/유사한 질문에 대해 어떤 연구(**문헌리뷰**)가 진행되었나? 기존 연구의 한계는 무엇인가?
 
 ## II. 연구방법
+공백 포함 1,500~2,000자
 
-* *How* are you going to study it?
-* On what *theory/methodology* is your research based?
-* How is your method different from previous research?
+* 어떤 **이론/방법론**을 사용하여 연구질문에 답할 것인가?
+* 본 연구는 기존 연구/방법론과 어떻게 **차별화**되는가?
 
 ## III. 연구내용
+공백 포함 2,000~2,500자
 
-* *What* are the expected outcomes?
-* *What* have you found out so far?
+* 현재까지 진행된 연구의 결과는 무엇인가?
+* 연구결과가 연구질문에 어떤 답을 제공하는가?
 
 ## IV. 결론
+공백 포함 1,000~1,500자
 
-* *Why* is this research important?
+* 현재까지 진행된 연구를 바탕으로 본 연구가 끝까지 진행되어야 하는 이유를 서술하라.
 
 ## V. 참고문헌
 
-* No less than 10 items
-* With brief annotations (of 2–3 lines)
+* 문헌 10개 이상 포함
+* 각 문헌에 대한 간결한(공백 포함 150자 내외) 주해 작성
+
+연구계획서 **총 글자수**: 공백 포함 6,000~8,000자(주석 포함, 참고문헌 제외)
