@@ -11,16 +11,16 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 * [연구윤리](#연구윤리)
 
 ## 중간과제
-2023학년도 1학기 재학생부터 적용
+> 2023학년도 1학기 재학생부터 적용
 
 * 2023학년도 1학기부터 전공실기 중간과제는 연구계획서로 대체
     * 기존 번역 과제는 폐기
 * [연구계획서 양식](research-proposal.md)을 참고하여 작성
-* 매 학기 7주차 월요일 16:00까지 과사무실(3층 수업준비실) 제출
-* 매 학기 9주차 전공실기 시간에 교강사 개별 피드백 제공
+* 매 학기 <mark>7주차 월요일 16:00까지</mark> 과사무실(3층 수업준비실) 제출
+* 매 학기 <mark>9주차 전공실기 시간에</mark> 교강사 개별 피드백 제공
 
 ## 종합시험
-2023학년도 1학기 신입생부터 적용
+> 2023학년도 1학기 신입생부터 적용
 
 * 3기 종합시험(논문자격시험) 통과 :arrow_right: 4기 논문 프로포잘 심사(학기 초) :arrow_right: 4기 논문 심사
 * 4기 종합시험(논문자격시험) 통과 :arrow_right: 5기 논문 프로포잘 심사(학기 초) :arrow_right: 5기 논문 심사
@@ -28,9 +28,9 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 * 시험 문제는 학과 선정 [필독서/논문 50선](musicology-must-reads.md) 중에서 출제
 
 ## 학위논문
-2023학년도 1학기 재학생부터 적용
+> 2023학년도 1학기 재학생부터 적용
 
-* 석/박사 학위논문 심사위원은 전임 교원 2인 이상으로 구성
+* 석/박사 학위논문 심사위원은 <mark>전임 교원 2인 이상</mark>으로 구성
 
 ## 연구윤리
 
