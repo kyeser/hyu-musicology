@@ -14,7 +14,7 @@ Requirement for Musicology Majors in Graduate School at Hanyang University
 2023학년도 1학기 재학생부터 적용
 
 * 2023학년도 1학기부터 중간번역과제는 연구계획서로 대체
-* 연구계획서 양식 준수
+* [연구계획서 양식](research-proposal.md) 준수
     * 3페이지(참고문헌 제외)
     * 참고문헌
         * 문헌 10개 이상
