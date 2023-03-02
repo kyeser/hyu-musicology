@@ -16,8 +16,8 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 * 2023학년도 1학기부터 전공실기 중간과제는 연구계획서로 대체
     * 기존 번역 과제는 폐기
 * [연구계획서 양식](research-proposal.md)을 참고하여 작성
-* 매 학기 7주차 월요일 16:00까지 과사무실(3층 수업준비실) 제출
-* 매 학기 9주차 전공실기 시간에 교강사 개별 피드백 제공
+* 매 학기 `7주차 월요일 16:00까지` 과사무실(3층 수업준비실) 제출
+* 매 학기 `9주차 전공실기 시간`에 교강사 개별 피드백 제공
 
 ## 종합시험
 > 2023학년도 1학기 신입생부터 적용
@@ -30,7 +30,7 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 ## 학위논문
 > 2023학년도 1학기 재학생부터 적용
 
-* 석/박사 학위논문 심사위원은 전임 교원 2인 이상으로 구성
+* 석/박사 학위논문 심사위원은 `전임 교원 2인 이상`으로 구성
 
 ## 연구윤리
 
