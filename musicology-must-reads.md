@@ -1,5 +1,7 @@
 # Musicology Must-Reads
 
+Inspired by the Great Books curriculum and the reading list at [St. John’s College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) and [The Taruskin Challenge](https://taruskinchallenge.wordpress.com/musicology-must-reads-2/). 
+
 (Last updated 2 March 2023)
 
 * Attali, Jacques. (1977) 1985. *Noise: The Political Economy*. Translated by Brian Massumi. Foreword by Fredric Jameson. Afterword by Susan McClary. Minneapolis: University of Minnesota Press. Originally published as *Bruits: essai sur l’économie politique de la musique* (Paris: Presses Universitaires de France).
