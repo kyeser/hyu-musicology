@@ -13,8 +13,8 @@ Requirement for Musicology Majors in Graduate School at Hanyang University
 
 ## 석사 졸업 요건
 
-* 3기 논문자격시험 통과 => 4기 논문 프로포잘 심사(학기 초) => 4기 논문 심사
-* 4기 논문자격시험 통과 => 5기 논문 프로포잘 심사(학기 초) => 5기 논문 심사
+* 3기 논문자격시험 통과 :arrow_right: 4기 논문 프로포잘 심사(학기 초) :arrow_right: 4기 논문 심사
+* 4기 논문자격시험 통과 :arrow_right: 5기 논문 프로포잘 심사(학기 초) :arrow_right: 5기 논문 심사
 * 박사 논문자격시험은 4기 이상 응시 가능
 
 ## 중간과제 연구계획서
