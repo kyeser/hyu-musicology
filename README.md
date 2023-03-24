@@ -1,19 +1,22 @@
 # 한양대학교 일반대학원 음악학과 음악학 전공 과정 안내
 Requirement for musicology majors in Graduate School at [Hanyang University](https://www.hanyang.ac.kr)
 
-(Last updated 2 March 2023)
+(Last updated 28 March 2023)
 
 ## 목차
 
-* [중간과제](#중간과제전공실기)
-* [종합시험](#종합시험)
-* [학위논문](#학위논문)
-* [연구윤리](#연구윤리)
+1. [중간과제](#중간과제전공실기)
+2. [종합시험](#종합시험)
+3. [학위논문](#학위논문)
+4. [연구윤리](#연구윤리)
+
+> [부록 1. 연구계획서 양식](research-proposal.md)\
+> [부록 2. 필독서 목록](musicology-must-reads.md)
 
 ## 중간과제(전공실기)
 > 2023학년도 1학기 재학생부터 적용
 
-* 2023학년도 1학기부터 전공실기 중간과제는 연구계획서로 대체
+* 2023학년도 1학기부터 전공실기 중간과제는 `연구계획서`로 대체
     * 기존 번역 과제는 폐기
 * [연구계획서 양식](research-proposal.md)을 참고하여 작성
 * 매 학기 `7주차 월요일 16:00까지` 과사무실(3층 수업준비실) 제출
@@ -25,7 +28,7 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 * 3기 종합시험(논문자격시험) 통과 :arrow_right: 4기 논문 프로포잘 심사(학기 초) :arrow_right: 4기 논문 심사
 * 4기 종합시험(논문자격시험) 통과 :arrow_right: 5기 논문 프로포잘 심사(학기 초) :arrow_right: 5기 논문 심사
 * 박사 종합시험(논문자격시험)은 4기 이상 응시 가능
-* 시험 문제는 학과 선정 [필독서/논문 50선](musicology-must-reads.md) 중에서 출제
+* 시험 문제는 학과 선정 [필독서 및 논문 목록](musicology-must-reads.md) 중에서 출제
 
 ## 학위논문
 > 2023학년도 1학기 재학생부터 적용
@@ -34,7 +37,7 @@ Requirement for musicology majors in Graduate School at [Hanyang University](htt
 
 ## 연구윤리
 
+* KIRD 국가과학기술인력개발원 "[대학원생을 위한 연구윤리(인문사회계)](https://alpha-campus.kr/explore/7752247f-6ba6-4da3-b970-f4771108ca34)" 수강
 * 연구윤리 온라인 강좌 수강 후 이수증 제출
     * 2023학년도 1학기 재학생: 개강 후 3개월 이내 제출
     * 2023학년도 1학기 신입생: 최초 등록 학기 개강 후 3개월 이내 제출
-* KIRD 국가과학기술인력개발원 "[대학원생을 위한 연구윤리(인문사회계)](https://alpha-campus.kr/explore/7752247f-6ba6-4da3-b970-f4771108ca34)" 수강
