@@ -2,9 +2,9 @@
 
 Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) and the reading list suggested by [The Taruskin Challenge](https://taruskinchallenge.wordpress.com/musicology-must-reads-2/). 
 
-(Last updated 28 March 2023)
+작성 중(Last updated 28 March 2023)
 
-1. 김영민, 『공부란 무엇인가』, 어크로스, 2020.
+* 김영민, 『공부란 무엇인가』, 어크로스, 2020.
 * 움베르토 에코, 『논문 잘 쓰는 법』, 열린책들, 2006.
 * 머리 셰이퍼 (한명호, 오양기), 『사운드스케이프』, 그물코, 2008. 
 * 최유준, 『음악 문화와 감성 정치』, 작은이야기, 2011.
