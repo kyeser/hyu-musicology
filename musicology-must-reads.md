@@ -13,9 +13,9 @@ Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc
 5. Abbate, Carolyn. 2004. “Music—Drastic or Gnostic?” *Critical Inquiry* 30 (3): 505–36. https://doi.org/10.1086/421160.
 6. Abbate, Carolyn, and Roger Parker. 2012. *A History of Opera: The Last 400 Years*. New York: W. W. Norton.
 7. Adorno, Theodor W. 1976. *Introduction to the Sociology of Music*. Translated by E. B. Ashton. New York: Seabury Press. Originally published as *Einleitung in die Musiksoziologie* by Suhrkamp Verlag, Frankfurt-am-Main, 1962.
-   - DeNora, Tia. 2003. After Adorno: Rethinking Music Sociology. New York: Cambridge University Press. 『아도르노 그 이후: 음악사회학을 다시 생각한다』. 정우진 옮김. 한길사, 2012.
+   - DeNora, Tia. 2003. *After Adorno: Rethinking Music Sociology*. New York: Cambridge University Press. 『아도르노 그 이후: 음악사회학을 다시 생각한다』. 정우진 옮김. 한길사, 2012.
 8. Adorno, Theodor W. 2002. *Essays on Music*. Selected, with introduction, commentary, and notes by Richard Leppert. New translations by Susan H. Gillespie. Berkeley: University of California Press.
-9.  Benjamin, Walter. 2008. *The Work of Art in the Age of Its Technological Reproducibility and Other Writings on Media*. Edited by Michael W. Jennings, Brigid Doherty, and Thomas Y. Levin. Translated by Edmund Jephcott, Rodney Livingstone, Howard Eiland, and others. Cambridge, MA: Belknap Press. 『기술복제시대의 예술작품/사진의 작은 역사 외』. 최성만 옮김. 길, 2007.
+9. Benjamin, Walter. 2008. *The Work of Art in the Age of Its Technological Reproducibility and Other Writings on Media*. Edited by Michael W. Jennings, Brigid Doherty, and Thomas Y. Levin. Translated by Edmund Jephcott, Rodney Livingstone, Howard Eiland, and others. Cambridge, MA: Belknap Press. 『기술복제시대의 예술작품/사진의 작은 역사 외』. 최성만 옮김. 길, 2007.
 10. Cadwallader, Allen, David Gagné, and Frank Samarotto. 2020. *Analysis of Tonal Music: A Schenkerian Approach*. 4th ed. New York: Oxford University Press.
     - Bottge, Karen M., Allen Cadwallader, and David Gagné. *Student Workbook to Accompany “Analysis of Tonal Music: A Schenkerian Approach.”* 4th ed. New York: Oxford University Press.
 11. Caplin, William E. 1998. *Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven*. New York: Oxford University Press.
@@ -28,7 +28,7 @@ Inspired by the Great Books curriculum at [St. John’s College](https://www.sjc
 17. Cook, Nicholas, and Mark Everist, eds. 1999. *Rethinking Music*. Oxford: Oxford University Press.
 18. Dahlhaus, Carl. 1982. *Esthetics of Music*. Translated by William W. Austin. New York: Cambridge University Press. Originally published in German as *Musikästhetik* by Musikverlag Hans Gerig, Cologne, 1967.
 19. Dahlhaus, Carl. 1983. *Foundations of Music History*. Translated by J. B. Robinson. New York: Cambridge University Press. 
-20. Dahlhaus, Carl. 1989. *Nineteenth-Century Music*. Translated by J. Bradford Robinson. Berkeley: University of California Press. Originally published as Die Musik des 19. Jahrhunderts by Akademische Verlagsgesellschaft Athenaion, Wiesbaden, 1980.
+20. Dahlhaus, Carl. 1989. *Nineteenth-Century Music*. Translated by J. Bradford Robinson. Berkeley: University of California Press. Originally published as *Die Musik des 19. Jahrhunderts* by Akademische Verlagsgesellschaft Athenaion, Wiesbaden, 1980.
 21. Eco, Umberto. 2015. *How to Write a Thesis*. Translated by Caterina Mongiat Farina and Geoff Farina. Cambridge, MA: The MIT Press. 『논문 잘쓰는 법』. 김운찬 옮김. 열린책들, 2006.
 22. Gjerdingen, Robert O. 2007. *Music in the Galant Style*. Oxford: Oxford University Press.
 23. Goehr, Lydia. 2007. *The Imaginary Museum of Musical Works: An Essay in the Philosophy of Music*. Rev. ed. New York: Oxford University Press. First published 1992.
